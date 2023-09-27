@@ -8,3 +8,7 @@ exploting kali / Garuda / ubuntu / Arch / Black Arch /parrot sec.
 <h1 align="center"> How to install or Run this type of Files </h1>
 <br>
 <B> One can run this file by following steps</B>
+<ol>
+  <li>Open Terminal </li>
+  <li>Open Directory 'cd "Directeroy Name" '</li>
+</ol>
