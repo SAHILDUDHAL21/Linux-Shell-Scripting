@@ -9,13 +9,24 @@ exploting kali / Garuda / ubuntu / Arch / Black Arch /parrot sec.
 <br>
 <B> One can run this file by following steps </B>
 <ol>
-  <li>Open Terminal </li>
-  <li>Open Directory 
-    ```bash
+  <li>Open Terminal
+
+    Ctl+Atl+T
+  
+  </li>
+  <li>Open Directory      
     
     cd "dierctoty name"
+  </li>
+  <li> List The files in the folder
+
+    ls
     
-    ```
+  </li>
+  <li> Install or Run the File <br> <i>for eg :: the file name is <b>file.sh</b> so to run the file </i>
+
+    ./file.sh
+    
   </li>
   
 </ol>
