@@ -12,7 +12,9 @@ exploting kali / Garuda / ubuntu / Arch / Black Arch /parrot sec.
   <li>Open Terminal </li>
   <li>Open Directory 
     ```bash
+    
     cd "dierctoty name"
+    
     ```
   </li>
   
