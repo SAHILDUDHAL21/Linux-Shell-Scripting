@@ -10,13 +10,5 @@ exploting kali / Garuda / ubuntu / Arch / Black Arch /parrot sec.
 <B> One can run this file by following steps</B>
 <ol>
   <li>Open Terminal </li>
-  <li>Open Directory 
-   
-    ```bash
-    
-    ./install.sh
-    
-    ```
-    
-     </li>
+  <li>Open Directory   `  ./install.sh  `  </li>
 </ol>
