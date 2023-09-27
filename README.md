@@ -13,3 +13,4 @@ exploting kali / Garuda / ubuntu / Arch / Black Arch /parrot sec.
   <li>Open Directory   </li>
   `./install.sh`
 </ol>
+`./install.sh`
